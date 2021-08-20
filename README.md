@@ -28,6 +28,7 @@ Visualisation and outlier removal
 ![image](https://user-images.githubusercontent.com/71177034/130023925-ac534635-2da6-435f-904f-4ea92aba83c3.png)
 
 GridSearchCV and model deployment
+![image](https://user-images.githubusercontent.com/71177034/130190672-5c6b95d8-14c7-452a-8a45-c6222a5042bf.png)
 ![image](https://user-images.githubusercontent.com/71177034/130024189-eca8ce67-8bc7-4e9a-9d50-3f84e1304664.png)
 ![image](https://user-images.githubusercontent.com/71177034/130024292-17d19331-ed53-4f53-b0f6-4329109b7f2a.png)
 ![image](https://user-images.githubusercontent.com/71177034/130024357-55f692fc-b691-4f4e-bb34-3ced46680f57.png)
